@@ -322,11 +322,8 @@ If you would like to contribute:
 3. Commit your changes
 4. Open a Pull Request
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
